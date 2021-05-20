@@ -6,5 +6,7 @@ To use, install [Node-red](https://nodered.org/ "Node-red") and import flow*.jso
 There are different versions of the flows. 
 
 See folder:
+
 "Generic" -  for generic flow to customize.
+
 "IBM BAI" - for flows with IBM BAI connector.
