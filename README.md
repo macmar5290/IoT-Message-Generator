@@ -7,6 +7,6 @@ There are different versions of the flows.
 
 See folder:
 
-"Generic" -  for generic flow to customize.
+"Flows/Generic" -  for generic flow to customize.
 
-"IBM BAI" - for flows with IBM BAI connector.
+"Flows/IBM BAI" - for flows with IBM BAI connector.
