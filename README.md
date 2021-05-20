@@ -9,4 +9,4 @@ See folder:
 
 "Flows/Generic" -  for generic flow to customize.
 
-"Flows/IBM BAI" - for flows with IBM BAI connector.
+"Flows/IBM BAI" - for flows with IBM BAI 20.0.3 connector. Tested on single server deployment.
