@@ -5,8 +5,8 @@ To use, install [Node-red](https://nodered.org/ "Node-red") and import flow*.jso
 
 There are different versions of the flows. 
 
-See folder:
+See folders:
 
-"Flows/Generic" -  for generic flow to customize.
+"Flows/Generic" -  generic flow to customize.
 
-"Flows/IBM BAI" - for flows with IBM BAI 20.0.3 connector. Tested on single server deployment.
+"Flows/IBM BAI" - flows with IBM BAI 20.0.3 connector. Tested on single server deployment.
